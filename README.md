@@ -8,7 +8,7 @@
   Copy the project on local machine and use IDE of your choise that incudes a web server. Deploy the index.html. 
 
 ## Roadmap for future improvement:
- 1. Add separate markers for buses going opposite directions.
+ 1. Add different style markers for buses going opposite directions.
 
 ## License
   MIT License Copyright (c) 2021 Kirill Gusev
